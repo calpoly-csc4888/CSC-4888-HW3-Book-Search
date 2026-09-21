@@ -8,10 +8,6 @@ The included `Childrens-Books.zip` archive contains almost 1000 images of book c
 
 Then you will test a set of query images (`queries.zip`) and evaluate how well the system is able to recognize the books in the images.
 
-To install the dependencies for this homework:
-
-    %pip install scikit-image scikit-learn
-
 ## Code requirements
 
 #### Build the visual vocabulary
